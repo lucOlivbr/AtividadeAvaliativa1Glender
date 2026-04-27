@@ -7,8 +7,7 @@ public class Atividade {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
-        int fileiras = 6;
-        int assentos = 8;
+        int fileiras = 6, assentos = 8;
 
         int[][] fileirasEAssentos = new int[fileiras][assentos];
 
